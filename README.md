@@ -21,8 +21,6 @@ práctica musical.
 
 Actualmente en desarrollo.
 
-Próximamente disponible para Chrome.
-
 ## 🌱 Lo que estoy aprendiendo
 
 - Desarrollo de software
