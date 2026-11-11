@@ -1,10 +1,7 @@
-<img align="right" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="width: 100%; max-width: 600px; height: auto;"/>
+<img align="right" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="width: 80%; max-width: 600px; height: auto;"/>
 
 
-# Te habla Gruff, el creador de Musitrack, estudiante de la escuela de <a href="https://www.musihacks.com/"> Musihacks </a> y de la escula de <a href="https://davidcalabres.com/"> David Calabres </a> y futuro diseñador de software, este es mi humilde GitHub donde pongo mis proyectos realizados. Si te interesa los proyectos de código libre me puedes apoyar donando, compartiendo o aportando cambios y documentos para la mejora del proyecto. <br> <br/>
-
-
-
+# Te habla Gruff, el creador de Musitrack, estudiante de la escuela de <a href="https://www.musihacks.com/"> Musihacks </a> y de la escula de <a href="https://davidcalabres.com/"> David Calabres </a> y futuro diseñador de software, este es mi humilde GitHub donde pongo mis proyectos realizados. Si te interesa los proyectos de código libre me puedes apoyar donando, compartiendo o aportando cambios y documentos para la mejora del proyecto.
 ## 🚀 Mis proyectos
 
 <a href= "https://chromewebstore.google.com/detail/njfchcojdcfghjjnacjbfjckeglkefmc?utm_source=item-share-cb"> 🎸 Musitrack Extension </a> / <a href= "https://chromewebstore.google.com/detail/njfchcojdcfghjjnacjbfjckeglkefmc?utm_source=item-share-cb"> Musitrack Proyecto </a> 
