@@ -1,19 +1,13 @@
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="width: 100%; max-width: 600px; height: auto;"/>
 
-¡Hola! Soy Gruff 👋
 
-🎵 Músico | 🎨 Diseñador | 💻 Programador
+# Te habla Gruff, el creador de Musitrack, estudiante de la escuela de <a href="https://www.musihacks.com/"> Musihacks </a> y de la escula de <a href="https://davidcalabres.com/"> David Calabres </a> y futuro diseñador de software, este es mi humilde GitHub donde pongo mis proyectos realizados. Si te interesa los proyectos de código libre me puedes apoyar donando, compartiendo o aportando cambios y documentos para la mejora del proyecto. <br> <br/>
 
-Me apasiona aprender, explorar nuevas ideas
-y crear herramientas que puedan ser útiles
-para otras personas.
 
-Creo que aprender y compartir conocimientos
-son dos de las mejores maneras de crecer.
 
 ## 🚀 Mis proyectos
 
- <a href= "https://chromewebstore.google.com/detail/njfchcojdcfghjjnacjbfjckeglkefmc?utm_source=item-share-cb"> 🎸 Musitrack </a>
+<a href= "https://chromewebstore.google.com/detail/njfchcojdcfghjjnacjbfjckeglkefmc?utm_source=item-share-cb"> 🎸 Musitrack Extension </a> / <a href= "https://chromewebstore.google.com/detail/njfchcojdcfghjjnacjbfjckeglkefmc?utm_source=item-share-cb"> Musitrack Proyecto </a> 
 
 Una extensión gratuita para navegadores
 que busca facilitar el aprendizaje y la
@@ -21,7 +15,11 @@ práctica musical.
 
 Actualmente en desarrollo.
 
-Próximamente disponible para Chrome.
+Próximamente.
+
+* Liberación del Código Fuente.
+* Integración de un Ecualizador.
+* Desarrollo de una API.
 
 ## 🌱 Lo que estoy aprendiendo
 
@@ -32,14 +30,9 @@ Próximamente disponible para Chrome.
 - Creación de aplicaciones y extensiones
 
 ## 💡 Mi filosofía
+Aprendiendo a desaprender.
 
-Me gusta experimentar, equivocarme,
-aprender y mejorar.
-
-Creo en la importancia de crear herramientas
-accesibles y compartir lo aprendido
-durante el proceso.
-
+"Aprender no es acumular, es desarmar y volver a armar. Cuestiona tus bases, rompe tus esquemas y prepárate para evolucionar."
 ## ☕ Apoya mis proyectos
 
 Desarrollo proyectos por curiosidad,
@@ -49,7 +42,6 @@ Si alguno de mis proyectos te resulta
 interesante o útil, puedes apoyar su
 desarrollo.
 
-¡Cada aporte me ayuda a seguir aprendiendo
-y creando!
+¡Cada aporte me ayuda a seguir creando!
 
 🔗 [Apóyame en Ko Fi](https://ko-fi.com/gruffneverbeast)
